@@ -38,5 +38,3 @@ El análisis se realiza en un notebook de Jupyter  utilizando librerías de Pyth
 4.  **Abrir y ejecutar el notebook:**
     Puedes abrir `Monografia_Proyeccion_Demanda-Precio.ipynb` utilizando Jupyter Notebook o JupyterLab.
 
-## Resultados (Opcional)
-
