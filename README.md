@@ -31,7 +31,7 @@ El análisis se realiza en un notebook de Jupyter  utilizando librerías de Pyth
     ```bash
     cd Monografia_Proyeccion_Demanda-Precio
     ```
-3.  **Instalar las dependencias (opcional, si tienes `requirements.txt`):**
+3.  **Instalar las dependencias:**
     ```bash
     pip install -r requirements.txt
     ```
